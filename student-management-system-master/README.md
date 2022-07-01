@@ -127,6 +127,4 @@ email is given at the time of student details add into database
 
 ---
 
-### Conclusion
-
-> I am still maintaining and trying to add more features feel free to reach out to me and give suggestions.
+Contributer: DeepakSaini77 and abhishek_kumar_71
